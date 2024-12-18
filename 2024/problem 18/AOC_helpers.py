@@ -48,4 +48,5 @@ def get_nums(input):
     Splits a list of strings into numbers.
     """
     return [int(num) for num in input]
-
+if __name__ == '__main__':
+    pass
