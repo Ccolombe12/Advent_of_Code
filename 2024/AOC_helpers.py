@@ -50,6 +50,7 @@ def get_nums(input):
     return [int(num) for num in input]
 
 
+
 if __name__ == '__main__':
     pass
 
